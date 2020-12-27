@@ -1,1 +1,2 @@
-from app.sort_images.run import sort_images
+from app.SortImages import SortImages
+from app.SimilarImages import SimilarImages
